@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog</title><link>/</link><description>Recent content on Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello</title><link>/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/</guid><description>Hello
+My name is
+What
+My name is
+Stan is it ? lol</description><content>&lt;p>Hello&lt;/p>
+&lt;p>My name is&lt;/p>
+&lt;p>What&lt;/p>
+&lt;p>My name is&lt;/p>
+&lt;h2 id="stan">Stan&lt;/h2>
+&lt;h3 id="is-it-">is it ?&lt;/h3>
+&lt;h3 id="lol">lol&lt;/h3></content></item></channel></rss>
